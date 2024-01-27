@@ -2,6 +2,9 @@
 
 ### 易混
 
+[PDD1zuidachengji.md](PDD1zuidachengji.md)
+[DD1zuidalianxuhe.md](DD1zuidalianxuhe.md)
+[MT1zuidachazhi.md](MT1zuidachazhi.md)
 [XM1xiaomiGit.md](XM1xiaomiGit.md)
 
 ### 动脑多代码少

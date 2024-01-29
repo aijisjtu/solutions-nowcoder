@@ -20,6 +20,17 @@ data = list(map(int, sys.stdin.readline().strip().split()))
 data.sort()
 print(max(data[-1] * data[-2] * data[-3], data[-1] * data[0] * data[1]))
 
+# [1,3,5,7,9],5,3
+while True:
+    try:
+        l=input()
+        A = l[0]
+        n = l[1]
+        val = l[2]
+        print(BinarySearch(A, n, val))
+    except:
+       break
+
 
 while True:
     try:
@@ -29,6 +40,15 @@ while True:
     except:
         break
 
+while True:
+    try:
+        l=input()
+        A = l[0]
+        n = l[1]
+        val = l[2]
+        print(BinarySearch(A, n, val))
+    except:
+       break
 ```
 
 ### cpp
